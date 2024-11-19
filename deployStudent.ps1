@@ -1,7 +1,7 @@
 #$STACK_NAME="HTF23-i8c-<<GroupName>>-Stack"
 $STACK_NAME="HTF24-i8c-TeamName-Stack"
 $MY_REGION="eu-central-1"
-$MY_DEV_BUCKET="htf24-cloudformation-bucket"
+$MY_DEV_BUCKET="htf24-cloudformation-bucket2"
 
 $AWS_PROFILE="default"
 
