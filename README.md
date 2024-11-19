@@ -75,7 +75,7 @@ Before you launch from Earth, you have to report back to us, the Mothership.
 Before you are allowed to launch, we need to know what location you are launching from and where you will be landing once the mission has been completed.  
 Luckily we have a partnership with **Elon Musk** and he's kindly letting us use his [SpaceX](https://www.spacex.com) launchpads and landpads.  
 All of their launch- and landpads are available to us and you can choose the one you deem most suitable.  
-Use their [GraphQL Endpoint](https://studio.apollographql.com/public/SpaceX-pxxbxen/variant/current/home) to choose yours, and inform the Mothership befhorehand.
+Use their [GraphQL Endpoint](https://studio.apollographql.com/public/SpaceX-pxxbxen/variant/current/home) to choose yours, and inform the Mothership befhorehand. (Informing the Mothership means sending your message to the SQS queue already defined in the example code :) )
   
 Please keep in mind that the Mothership is only able to read messages that are sent in the following JSON format:
 ```json
