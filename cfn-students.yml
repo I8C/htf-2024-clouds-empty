@@ -34,7 +34,7 @@ Parameters:
     Default: <NASA API KEY>
     Type: String
   S3Bucket:
-    Default: htf24-s3-bucket
+    Default: htf24-s3-bucket2
     Type: String
 
 Resources:
